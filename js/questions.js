@@ -139,7 +139,7 @@ const quizQuestions = [
   {
     id: 14,
     question:
-      " HTML'de <pre><code>&lt;aside&gt;</code></pre> öğesi neyi tanımlar?",
+      " HTML'de <aside> öğesi neyi tanımlar?",
     choices: [
       'Sayfanın ana içeriği dışındaki içerik',
       'Sayfanın sol tarafında gösterilecek bir gezinme listesi',
@@ -220,7 +220,7 @@ const quizQuestions = [
   {
     id: 23,
     question:
-      ' Bir <pre><code>&lt;iframe&gt;</code></pre>  etiketi web sayfasını diğer web sayfası içinde görüntülemek için kullanılır.',
+      ' Bir <iframe>  etiketi web sayfasını diğer web sayfası içinde görüntülemek için kullanılır.',
     choices: ['iframe diye etiket yoktur', 'Doğru', 'Yanlış', 'Emin Değilim'],
     answer: 'Doğru',
   },
